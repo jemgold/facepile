@@ -1,0 +1,26 @@
+{
+  "name": "facepile",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Jon Gold",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-object-rest-spread": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.4.1"
+  },
+  "dependencies": {
+    "data.task": "^3.1.1",
+    "es6-promise": "^4.0.5",
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1",
+    "ramda": "^0.22.1"
+  }
+}
